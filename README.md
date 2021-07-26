@@ -1,1 +1,2 @@
 Sample Project to be connected with Microsoft AppCenter for building CI/CD pipeline
+[![Build status](https://build.appcenter.ms/v0.1/apps/87af2113-85fc-4263-a06a-431717e2e080/branches/dev/badge)](https://appcenter.ms)
